@@ -1,2 +1,2 @@
 # mlg_demo
-Demo for students 
+This the demo of git for students. 
